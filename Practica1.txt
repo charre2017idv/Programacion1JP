@@ -1,0 +1,295 @@
+ 1. What is software?
+
+El software es una colección de programas que estan en la computadora, 
+telefono, camara, auto o cualquier objeto que requiera del mismo.
+
+ 2. Why is software important?
+
+sin el uso de software no podriamos darle uso a todos los paratos que usamos en el dia cotidiano, 
+su funcion es de vital importanica para que sirva lo que queremos utilizar.
+
+ 3. Where is software important?
+
+Es importante en todos lados, sin el la maquina que se este usando no servira de nada.
+
+ 4. What could go wrong if some software fails? List some examples.
+
+- Accidentes
+- Mal funcionamiento
+- Perdida de informacion
+
+ 5. Where does software play an important role? List some examples.
+
+Creo que en todas partes es importante un buen software, 
+pero si tuviera que decir donde es vital tenerlo seria en esto:
+
+- Servidores de seguridad
+- Automoviles
+- Computadores
+- Aviones
+- Televisiones
+- Equipos medicos
+
+ 6. What are some jobs related to software development? List some.
+
+- Ingeniero en desarrollo de software
+- Ingeniro en sistemas computacionales
+- Seguridad informatica
+- Videojuegos
+- Desarrollo de aplicaciones
+- Quimica computacional
+
+ 7. What’s the difference between computer science and programming?
+
+- Programming: Es el proceso que se realiza en el desarrollo de software y programas computacionales. 
+Es esencial en el mundo ya que es un reto intelectual que requiere de habilidades en el campo tecnico.
+- Computer science: Es el estudio de los fundamentos teoricos de la informacion computacional y 
+su aplicacion en sisitemas computacionales.
+
+ 8. Where in the design, construction, and use of a ship is software used?
+
+Su aplicacion esta en todo lo que se "modernizo" con la llegada de las nuevas tecnologias, 
+el display de muchos aparatos cambio conforme las necesidades fueran creciendo.
+
+Diseño: Todo el diseño (O la mayoria) es hecho y calculado con computadoras.
+Construcción: Se tiene que  ser muy preciso con el ensambleje de todas las piezas, 
+la mayoria de veces ahora se construyen con robots programados para cumplir con una funcion especifica.
+Motor: El funcionamiento del motor no tiene un funcionamiento individual sino que tiene un funcionamiento
+en conjunto con otras computadoras y maquinas.
+Administación: Todo el proceso de programación de entrega de y salida de carga es programada por computadoras,
+de este modo es mes eficiente el trabajo.
+Monitoreo: Sirve para estar altanto de como esta el funcionamiento del barco, 
+no solo de eso sino que tambien de el rumbo a donde se dirigen, la cantidad de combustible, la cantidad de peso, etc..
+
+ 9. What is a server farm?
+
+Es una collección de computadoras ofreciendo un servicios web. Aqui se recopila la mayor cantidad de informacion de una empresa.
+Es una base de datos donde se almacenara toda la informacion en un sitio web o en la conocida "nube".
+
+ 10. What kinds of queries do you ask online? List some.
+
+- Busquedas escolares
+- Busqueda de Articulos
+- Busqueda de informacion general
+- Videos
+- Redes sociales
+
+ 11. What are some uses of software in science? List some.
+
+Existen miles de usos de software en el mundo de la ciencia, 
+me atreveria a decir que aqui se usa mucho mas que en otro campo.
+
+- Aeronautica
+- Ingenieria mecanica
+- Ingenieria Industrial
+- Calculos fisicos y matematicos
+
+ 12. What are some uses of software in medicine? List some.
+
+- Todos los equipos medicos con los que se realizan estudios 
+- Analisis medicos
+- Operaciones con maquinas especializadas para realizar una Operacion medica en quirofano.
+
+ 13. What are some uses of software in entertainment? List some.
+
+- Television
+- Radio
+- Videojuegos
+- Cine
+
+ 14. What general properties do we expect from good software?
+
+- Que este bien hecho
+- Buen diseño
+- Accesible a todo publico
+- Codigo efectivo
+
+ 15. What does a software developer look like?
+
+Es una persona con la capacidad de resolver el problema o necesidad para asi 
+crear algo nuevo y en el camino resolver multiples problemas que se lograran resolver con habilidad y estrategia.
+
+ 16. What are the stages of software development?
+
+- Analisis: Se busca el problema o necesidad.
+- Diseño: Como se resolvera el problema.
+- Programación: Se expresa la solución del problema de diseño en codigo.
+- Testing o pruebas: Comprobar que el programa funciona correctamente.
+
+ 17. Why can software development be difficult? List some reasons.
+
+Porque las computadoras son tontas y es necesario que alguien le asigne tareas a realizar, 
+de ahi nace quien es capas y quien no de realizar esa tarea. Es necesario:
+
+- Entender la programación
+- Entender el problema
+- Buscar la solución
+
+ 18. What are some uses of software that make your life easier?
+
+- Uso de automovil
+- Computadora
+- Uso de tecnologia para resolver problemas
+- Television 
+- Realizar tareas mas rapido y eficientemente.
+
+ 19. What are some uses of software that make your life more difficult?
+
+- Procesos mas complicados
+- Muchas cosas se volvieron automatas
+- Perdida de trabajos por utilizar una maquina
+
+TERMINOS
+
+affordability: Que sea accesible
+Analysis: Ver como se conofrma algo.
+Blackboard: Sistema de aprendizaje.
+Costumer: Cliente
+Programmer: Persona que se didica a programar.
+Programming: El hecho de programar codigo de una manera en la que se utilizen las habilidades desarrolladas.
+Disign: Como se resuelve un problema.
+Feedback: Retroalamientacion.
+Software: Colección de programas en una maquina.
+CAD/CAM: Diseño asistido por computadora y
+fabricación asistida por computadora.
+GUI: Interfaz Grafica de Usuario.
+Stereotype: Esteriotipo.
+Communication: Puente de intercambio de ideas.
+Ideals: Ideas.
+Testing: Realizacion de pruebas al programa.
+Correctness: Que el programa realize lo asignado.
+Implementacion: Realizacion de la actividad o tarea.
+User: Usuario.
+
+Exercises
+ 1. Pick an activity you do most days (such as going to class, eating dinner,
+or watching television). Make a list of ways computers are directly or
+indirectly involved.
+
+Actividad: Levatarme en la mañana
+
+Para levantarme en la mañana utilizo la alarma de mi celular.
+Directamente influye en la fucion de recordarme a que hora levantarme.
+despues me entero de lo que puede ocurrir en el dia a dia.
+
+ 2. Pick a profession, preferably one that you have some interest in or some
+knowledge of. Make a list of activities done by people in that profession
+that involve computers.
+
+Termografia: 
+- Analisis de cuerpos infrarrojos
+- Calibración de cammaras infrarrojas
+- Medición infrarroja
+
+ 3. Swap your list from exercise 2 with a friend who picked a different profession
+and improve his or her list. When you have both done that, compare
+your results. Remember: There is no perfect solution to an open-ended exercise;
+improvements are always possible.
+
+
+
+ 4. From your own experience, describe an activity that would not have been
+possible without computers.
+
+- Medición infrarroja
+- Calculos aeronauticoa
+- Formulas matematicas y fisicas
+- Exploracion del espacio
+
+ 5. Make a list of programs (software applications) that you have directly
+used. List only examples where you obviously interact with a program
+(such as when selecting a new song on an MP3 player) and not cases 
+where there just might happen to be a computer involved (such as turning
+the steering wheel of your car).
+
+- Computadoras (Todo lo que las compone)
+- Radio al cambiar de estacion
+- Television Cambio de canales
+
+ 6. Make a list of ten activities that people do that do not involve computers
+in any way, even indirectly. This may be harder than you think!
+
+- Cepillarse los dientes
+- Peinarse
+- Cantar
+- Rezar
+- Meditar
+- 
+
+ 7. Identify five tasks for which computers are not used today, but for which
+you think they will be used at some time in the future. Write a few sentences
+to elaborate on each one that you choose.
+
+- Caminar, ahorita caminamos pero en un futuro podriamos estar como los gorditos de WallE
+- Preparar comida, aunque ya se realiza puede que un dia ya nadie cocine.
+- Ventas sin vendedor, puede que en el futuro se vuelvan automatas las industrias
+como walmart y todo lo compres directo como en esas maquinas expendendoras.
+- Vuelos comerciales no tripulados, Existen aeronaves que se manejan solas, 
+pero es muy resgoso un vuelo no tripulado con pasajeros.
+- Conduccion sin pasajero, bien se sabe que Tesla esta haciendo pruebas, 
+pero todavia faltan unos años para que esto se vuelva completamente funcional.
+
+ 8. Write an explanation (at least 100 words, but fewer than 500) of why you
+would like to be a computer programmer. If, on the other hand, you are
+convinced that you would not like to be a programmer, explain that. In
+either case, present well-thought-out, logical arguments.
+
+Me gusta la idea de la manipulacion de software en las maquinas, 
+amo la idea de saber como funcionan y descubrir los procesos que realizan, 
+aunque es un largo camino de especializacion no me gustaria dejarlo, 
+ya que las oportunidades en el futuro se relacionan con el desarrollo de tecnologias 
+y ver un mejor sustento de nuestras tecnologias en la actualidad.
+
+ 9. Write an explanation (at least 100 words, but fewer than 500) of what
+role other than programmer you’d like to play in the computer industry
+(independently of whether “programmer” is your first choice).
+
+Diseño de harware: 
+Una parte muy importante en el desarrollo de tecnologias es que tengan un buen hardware, 
+ya que se puede tener un muy buen software pero si el hardware no es eficiente,
+ este se vuelbe monotono y no da la apertura de tener una major facilidad de utilizar los dispositivos, 
+por otro lado asi se sabe mucho de como se conforman y elaboran muchisimas cosas en la industria
+ y vomo estas favorecen a nuestro entorno.
+
+ 10. Do you think computers will ever develop to be conscious, thinking beings,
+capable of competing with humans? Write a short paragraph (at
+least 100 words) supporting your position.
+
+Cada vez nos acercamos mas a esa idea, aunque falta mucho para eso, sabemos muy bien emular la realidad, 
+ya que existen demasiadas inteligencias artificiales que cumplen con algunas funciones,
+ pero para ser concientes de sus actos hace falta mas que programacion, 
+se necesita algo escencial que solo lo tenemos los humanos y eso es el razonar y pensar, tomar decisiones, 
+sin esto seriamos como cualquier animal, y nadie quisiera que una computadora fuese asi, 
+eso nos llevaria a la aniquilacion, pienso que con el desarrollo de tecnologias estamos dando un gran paso 
+pero faltan muchos años para que una computadora tenga consciencia propia.
+
+
+ 11. List some characteristics that most successful programmers share. Then
+list some characteristics that programmers are popularly assumed to have.
+
+Caracteristicas de programadores exitosos:
+- Tienen pasion por lo que hacen
+- Estudian por su cuenta
+- Son emprendedores
+- Buscan soluciones a sus problemas
+
+Caracteristicas asumidas:
+
+- Dado que no encontre mucha informacion anexo este link:
+https://www.google.com.mx/search?q=como+ven+que+es+un+programador&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiuh-_ahurYAhVSy1MKHWc_DyAQ_AUICigB&biw=1536&bih=759#imgrc=P9ajd10Rbu2uXM:
+
+ 12. Identify at least five kinds of applications for computer programs mentioned
+in this chapter and pick the one that you find the most interesting
+and that you would most likely want to participate in someday. Write a
+short paragraph (at least 100 words) explaining why you chose the one
+you did.
+
+
+
+ 13. How much memory would it take to store (a) this page of text, (b) this
+chapter, (c) all of Shakespeare’s work? Assume one byte of memory holds
+one character and just try to be precise to about 20%.
+
+ 14. How much memory does your computer have? Main memory? Disk?
+
+La capacidad del disco duro de mi computadora es de: 1 TB de espacio.
