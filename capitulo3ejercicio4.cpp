@@ -53,7 +53,10 @@ int calculatodo(int Valor1, int Valor2)
 int main()
 {
 	cout << "=====================================" << endl;
-	cout << "==== Bienvenido a la calculadora ====" << endl;	cout << "=====================================" << endl;	cout << "- Calcula todo (1)" << endl;
+	cout << "==== Bienvenido a la calculadora ====" << endl;
+	cout << "=====================================" << endl;
+	cout << "- Calcula todo (1)" << endl;
+
 	int opcion = 0;
 	cout << "Escriba el numero de la funcion: " << endl;
 	cin >> opcion;
