@@ -4,6 +4,7 @@ casa
 abortares
 piyei
 absortare
+manspider
 lasa
 arrebatos
 ana
@@ -15,4 +16,5 @@ cala
 japones
 nan
 toca
+spiderman
 yeipi
