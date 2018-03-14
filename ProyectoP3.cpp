@@ -2,7 +2,42 @@
 #include<iostream>
 #include <string>
 #include <vector>
+#include <map>
 using namespace std;
+
+// Clase del cuarto
+class cuarto
+{
+public:
+	string nombreSalon;
+	string descripcionCuarto;
+	int numeroHabitacion;
+	int objetosSalon;
+	int direcciones;
+	
+
+	cuarto(string nombre, string descripcion, int numHabitacion, int objetos, int direc)
+	{
+		nombreSalon = nombre;
+		descripcionCuarto = descripcion;
+		numeroHabitacion = numHabitacion;
+		objetosSalon = objetos;
+		direcciones = direc;
+
+	}
+
+
+private:
+	
+	int cuarto::objeto()
+	{
+		if (objetosSalon == 0)
+			cout << "Aqui no hay nada." << endl;
+		if (objetosSalon == 1)
+			cout << "Pista 1: En el pasaje que lleva a la sabiduria, encontraras una gran aventura." << endl;
+		return 0;
+	}
+};
 
 int menu()
 {
@@ -20,18 +55,47 @@ int menu()
 int Inventory(string& opcion)
 {
 	vector <string> Inventario;
-	Inventario.push_back("AMOR");
-	Inventario.push_back("COLOR");
-	cout << "Actualmente cuentas con "<< Inventario.size() << " pistas."<< endl;
-	cout << endl;
-	cout << "Inventario: ";
-	for (int i = 0; i < Inventario.size(); ++i)
+	string opciones;
+	cout << "Quieres agregar algo al inventario : si / no" << endl;
+	cin >> opciones;
+	if (opciones == "si")
 	{
-		cout << Inventario[i] << ",";
+		string op;
+		cout << "Agrega algo al inventario: ";
+		cin >> op;
+		Inventario.push_back(op);
+
+		cout << "Se agrego al inventario" << op;
+
+		cout << "Inventario: ";
+		for (int i = 0; i < Inventario.size(); ++i)
+		{
+			cout << Inventario[i] << ",";
+		}
+	}
+	else if (opciones == "no")
+	{
+		
+		cout << "A ok." << endl;
+	}
+	else
+	{
+		//Inventario.push_back(op);
+		Inventario.push_back("AMOR");
+		Inventario.push_back("COLOR");
+		cout << "Actualmente cuentas con " << Inventario.size() << " pistas." << endl;
+		cout << endl;
+		cout << "Inventario: ";
+		for (int i = 0; i < Inventario.size(); ++i)
+		{
+			cout << Inventario[i] << ",";
+		}
 	}
 	cout << endl;
 	return 0;
 }
+
+
 
 // PISTAS
 int Pista1() // Pista 1 / Lock 2 Respuesta = sabiduria
@@ -54,8 +118,9 @@ int Pista3() // Pista 3 / Lock 4 Respuesta = aventura
 
 int primeraVez()
 {
+	int vivo = true;
 	string opcion;
-	while (opcion != "0")
+	while (vivo = true)
 	{
 		cout << endl;
 		cout << "Ingresa la accion que quieras realizar: " << endl;
@@ -65,10 +130,22 @@ int primeraVez()
 		{
 			Inventory(opcion);
 		}
+		else if (opcion == "stats")
+		{
+			cuarto Salones ("Salon 1", "Salon de nuestro equipo", 1, 1, 34);
+			cout << Salones.nombreSalon << endl;
+			cout << Salones.descripcionCuarto << endl;
+			cout << Salones.numeroHabitacion << endl;
+			cout << Salones.objetosSalon << endl;
+			
+		}
+
 		else if (opcion == "ir sur")
 		{
 			cout << "Has ido al sur..." << endl;
 		}
+		
+
 
 	}
 	
