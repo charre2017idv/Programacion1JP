@@ -2,13 +2,13 @@
 
 
 
-Cuartos::Cuartos(string nombre, string descripcion, NumSalones  numHabitacion, objetos_Cuarto objetos, int direc)
+Cuartos::Cuartos(string nombre, string descripcion, NumSalones  numHabitacion, objetos_Cuarto objetos, int conections)
 {
 	nombreSalon = nombre;
 	descripcionCuarto = descripcion;
 	numeroHabitacion = numHabitacion;
 	Item = objetos;
-	direcciones = direc;
+	direcciones = conections;
 }
 
 

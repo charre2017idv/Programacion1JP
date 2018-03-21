@@ -29,5 +29,6 @@ void Jugador::Get_Inventory()
 	{
 		cout << Inventario[i] << ", ";
 	}
+	cout << "}" << endl;
 	cout << endl;
 }
