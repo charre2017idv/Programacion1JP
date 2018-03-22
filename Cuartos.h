@@ -12,7 +12,10 @@ enum objetos_Cuarto
 	NADA = 0,
 	PISTA_UNO,
 	PISTA_DOS,
-	PISTA_TRES
+	PISTA_TRES,
+	PISTA_CUATRO,
+	PISTA_CINCO,
+	PISTA_VACIO
 };
 
 enum NumSalones
@@ -38,11 +41,12 @@ class Cuartos
 public:
 	string nombreSalon;
 	string descripcionCuarto;
+	string opcion_Direccion;
 	int numeroHabitacion;
-	int direcciones;
+	int direccionesC;
 
 
-	Cuartos(string nombre, string descripcion, NumSalones  numHabitacion, objetos_Cuarto objetos, int conections);
+	Cuartos(string nombre, string descripcion, string direcciones, NumSalones  numHabitacion, objetos_Cuarto objetos, int conections);
 	~Cuartos();
 
 	// GETER : Se va a regresar el objeto que hay en un cuarto
@@ -50,6 +54,6 @@ public:
 
 private:
 	objetos_Cuarto Item;
-	string Arreglo_Pistas[4] = {"Pista 1: ...","Pista 2: ...","Pista 3: ..."};
+	string Arreglo_Pistas[7] = {"Pista 1: ...","Pista 2: ...","Pista 3: ...", "Pista 4: ...", "Pista 5: ...","Pista ???: Aqui no hay nada." };
 };
 
