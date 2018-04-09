@@ -9,11 +9,11 @@ class Jugador
 public:
 	// VARIABLE
 	string NombreJugador;
+	int dinero;
 
-
-
-	Jugador(string nombre);
+	Jugador(string nombre, int coins);
 	~Jugador();
+
 
 	// SETER
 	void Set_Inventory(string items);
